@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 const links = {
-  google: "https://www.google.com",
+  google: "https://lukericky.github.io/graph_visualizer/",
 };
 function Bfs() {
   const mystyle = {
